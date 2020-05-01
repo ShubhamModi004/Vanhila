@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Layer_2" width="150" height="150" data-name="Layer 2" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#fff}.prefix__cls-2{fill:#dadada}.prefix__cls-3{fill:#8b8b8b}.prefix__cls-4{fill:#545454}
+        </style>
+    </defs>
+    <g id="prefix__Layer_1" data-name="Layer 1">
+        <path id="prefix__Path_1" d="M158.095 133.63l-5.585 10.67 4.518 7.962 9.764-18.63z" class="prefix__cls-1" data-name="Path 1" transform="translate(-75.881 -66.597)"/>
+        <path id="prefix__Path_2" d="M134.6 147.822l-1.194-2.277-6.251-11.915h-8.695l11.656 22.234.132.254-.053.1H139l-.053-.1z" class="prefix__cls-1" data-name="Path 2" transform="translate(-59.081 -66.702)"/>
+        <circle id="prefix__Ellipse_1" cx="3" cy="3" r="3" class="prefix__cls-2" data-name="Ellipse 1" transform="translate(72.477 35.285)"/>
+        <circle id="prefix__Ellipse_2" cx="3" cy="3" r="3" class="prefix__cls-2" data-name="Ellipse 2" transform="translate(72.477 108.715)"/>
+        <circle id="prefix__Ellipse_3" cx="3" cy="3" r="3" class="prefix__cls-2" data-name="Ellipse 3" transform="translate(35.285 72.477)"/>
+        <circle id="prefix__Ellipse_4" cx="3" cy="3" r="3" class="prefix__cls-2" data-name="Ellipse 4" transform="translate(108.715 72.477)"/>
+        <circle id="prefix__Ellipse_5" cx="3.17" cy="3.17" r="3.17" class="prefix__cls-2" data-name="Ellipse 5" transform="translate(46.039 46.039)"/>
+        <circle id="prefix__Ellipse_6" cx="3.17" cy="3.17" r="3.17" class="prefix__cls-2" data-name="Ellipse 6" transform="translate(98.053 98.053)"/>
+        <circle id="prefix__Ellipse_7" cx="3.17" cy="3.17" r="3.17" class="prefix__cls-2" data-name="Ellipse 7" transform="translate(98.053 46.039)"/>
+        <circle id="prefix__Ellipse_8" cx="3.17" cy="3.17" r="3.17" class="prefix__cls-2" data-name="Ellipse 8" transform="translate(46.039 98.053)"/>
+        <circle id="prefix__Ellipse_9" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 9" transform="translate(95.438 21.98)"/>
+        <circle id="prefix__Ellipse_10" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 10" transform="rotate(-67.5 121.26 25.452)"/>
+        <circle id="prefix__Ellipse_11" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 11" transform="translate(51.824 21.98)"/>
+        <circle id="prefix__Ellipse_12" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 12" transform="rotate(-22.5 364.275 -175.642)"/>
+        <circle id="prefix__Ellipse_13" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 13" transform="translate(21.98 51.824)"/>
+        <circle id="prefix__Ellipse_14" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 14" transform="rotate(-58.28 149.765 -63.05)"/>
+        <circle id="prefix__Ellipse_15" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 15" transform="rotate(-13.28 286.875 -510.682)"/>
+        <circle id="prefix__Ellipse_16" cx="1.585" cy="1.585" r="1.585" class="prefix__cls-3" data-name="Ellipse 16" transform="translate(21.98 95.438)"/>
+        <circle id="prefix__Ellipse_17" cx="1" cy="1" r="1" class="prefix__cls-4" data-name="Ellipse 17" transform="translate(74.477)"/>
+        <circle id="prefix__Ellipse_18" cx="1" cy="1" r="1" class="prefix__cls-4" data-name="Ellipse 18" transform="translate(74.477 148)"/>
+        <circle id="prefix__Ellipse_19" cx="1" cy="1" r="1" class="prefix__cls-4" data-name="Ellipse 19" transform="translate(0 74.477)"/>
+        <circle id="prefix__Ellipse_20" cx="1" cy="1" r="1" class="prefix__cls-4" data-name="Ellipse 20" transform="translate(148 74.477)"/>
+        <circle id="prefix__Ellipse_21" cx="1.057" cy="1.057" r="1.057" class="prefix__cls-4" data-name="Ellipse 21" transform="translate(22.751 22.751)"/>
+        <circle id="prefix__Ellipse_22" cx="1.057" cy="1.057" r="1.057" class="prefix__cls-4" data-name="Ellipse 22" transform="translate(125.588 125.593)"/>
+        <circle id="prefix__Ellipse_23" cx="1.057" cy="1.057" r="1.057" class="prefix__cls-4" data-name="Ellipse 23" transform="translate(125.588 22.751)"/>
+        <circle id="prefix__Ellipse_24" cx="1.057" cy="1.057" r="1.057" class="prefix__cls-4" data-name="Ellipse 24" transform="translate(22.746 125.588)"/>
+    </g>
+</svg>

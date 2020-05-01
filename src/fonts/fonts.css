@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "ClanOT-News";
+    src: url("../../static/fonts/ClanOT-NarrowNews.otf");
+}
+
+@font-face {
+    font-family: "ClanOT-SemiBold";
+    src: url("../../static/fonts/ClanOT-NarrowBold.otf")
+}
+
+@font-face {
+    font-family: "ClanOT-Light";
+    src: url("../../static/fonts/ClanOT-NarrowMedium.otf")
+}
+
+@font-face {
+    font-family: "Merriweather";
+    src: url("../../static/fonts/Merriweather-Regular.otf");
+}

@@ -5,16 +5,23 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
+// Home components
+import Landing from '../components/Home/Landing/Landing';
+import Whoweare from '../components/Home/Whoweare/Whoweare';
+import Work from '../components/Home/Work/Work';
+import Reviews from '../components/Home/Reviews/Reviews';
+import Blog from '../components/Home/Blog/Blog';
+import Handles from '../components/Home/Handles/Handles';
+
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Landing />
+    <Whoweare />
+    <Work />
+    <Reviews />
+    <Blog />
+    <Handles />
   </Layout>
 )
 
