@@ -34,7 +34,7 @@ import Switch from "react-switch";
 // import svgs
 import Logo from '../../../images/logo.svg';
 import ArrowRight from '../../../images/assets/arrow-right.svg'
-import Hamburger from '../../../images/assets/Hamburger.svg'
+import Hamburger from '../../../images/assets/hamburger.svg'
 import Close from '../../../images/assets/Close.svg'
 
 

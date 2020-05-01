@@ -9,7 +9,7 @@ import {
     Links,
     LinkItem,
     LinkContainer
-} from './footer.styles';
+} from './Footer.styles';
 
 // import common styles
 import {
