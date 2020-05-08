@@ -99,6 +99,14 @@ export const SiteName = styled.h1`
   }
 `
 
+export const LogoLink = styled(Link)`
+  &:hover{
+    text-decoration: none !important;
+    text-underline-position: none;
+    color: #000;
+  }
+`
+
 export const Links = styled.div`
   display: flex;
   flex: 0.6;

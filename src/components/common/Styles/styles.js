@@ -1,9 +1,9 @@
 import styled from 'styled-components'
+import { Link } from 'gatsby'
 
-const shadow = '10px 10px 27px 23px rgba(0,0,0,0.16)'
+let shadow = '10px 10px 27px 23px rgba(0,0,0,0.16)'
 
-
-export const PurpleButton = styled.button`
+export const PurpleButton = styled(Link)`
     width: 8rem;
     height: 2.7rem;
     display: flex;
@@ -15,8 +15,11 @@ export const PurpleButton = styled.button`
     background-color: #4f4791;
     &:hover {
         cursor: pointer;
+        text-decoration: none;
+        color: #fff;
     }
 `
+
 
 
 export const WhiteButton = styled.button`
@@ -58,7 +61,7 @@ export const Title = styled.h1`
 
 export const Description = styled.p`
     font-family: ClanOT-News;
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.7;
     width: 70%;
     color: ${props => props.color || '#4f4791'};

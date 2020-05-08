@@ -38,11 +38,19 @@ export const WorkItems = styled.div`
 `
 
 export const WorkItemContainer = styled.div`
-    width: 25rem;
+    width: 35vw;
     margin: 1rem 0;
     display: inline-block;
     vertical-align: bottom;
     float: ${({ index, total }) => handleIndex(index, total)};
+    @media (max-width: 990px) {
+        width: 30vw;
+        float: left;
+    }
+    @media (min-width: 1200px) {
+         width: 40vw;
+        float: left;
+    }
     @media (max-width: 774px) {
         width: 100%;
         float: left;
@@ -50,7 +58,7 @@ export const WorkItemContainer = styled.div`
 `
 
 export const WorkImageContainer = styled.div`
-    width: 25rem;
+    width: 100%;
     background-color: #ffccb5;
     height: ${({ app }) => handleHeight(app)};
     @media (max-width: 774px) {

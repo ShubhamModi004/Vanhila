@@ -12,22 +12,22 @@ export const Container = styled.div`
 
 export const LandingHeader = styled.h1`
     font-family: ClanOT-News;
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 1.2;
     color: #000000;
     @media (max-width: 774px) {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
     }
 `
 
 export const LandingDescription = styled.h2`
     font-family: ClanOT-News;
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.2;
     color: #808b98;
     margin-top: 1rem;
     @media (max-width: 774px) {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 `
 

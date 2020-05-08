@@ -12,7 +12,8 @@ import {
   Item,
   LogoImage,
   HamburgerMenu,
-  Global
+  Global,
+  LogoLink
 } from './header-styles';
 
 import { animated } from 'react-spring'
@@ -66,12 +67,12 @@ const Header = () => {
 
   return (
     <HeaderContainer className='container'>
-      <Link to="/">
+      <LogoLink to="/">
         <LogoContainer>
           <LogoImage src={Logo} />
           <SiteName style={{ letterSpacing: 12, marginLeft: 15 }}>VANIHLA</SiteName>
         </LogoContainer>
-      </Link>
+      </LogoLink>
       <Links>
         <div style={{ display: 'flex', flexDirection: 'row', marginRight: '1rem' }}>
           <LinkItem style={{ marginRight: '1rem' }}>Light</LinkItem>
@@ -95,7 +96,7 @@ const Header = () => {
           Masterclass
              <img src={Star} style={{ height: '0.55rem', width: '0.55rem', marginTop: '-1rem', marginLeft: '0.7rem' }} />
         </LinkItem>
-        <PurpleButton>
+        <PurpleButton to="/hireus">
           Hire us
           <img src={ArrowRight} style={{ height: '0.6rem', width: '0.8rem' }} />
         </PurpleButton>
@@ -115,7 +116,7 @@ const Header = () => {
             Masterclass
              <img src={Star} style={{ height: '1rem', width: '1rem', marginTop: '-1.5rem', marginLeft: '1rem' }} />
           </LinkItem>
-          <PurpleButton style={{ width: '14rem', height: '4rem', fontSize: '1.5rem' }}>
+          <PurpleButton to="/hireus" style={{ width: '14rem', height: '4rem', fontSize: '1.5rem' }}>
             Hire us
             <img src={ArrowRight} style={{ height: '0.6rem', width: '0.8rem' }} />
           </PurpleButton>
